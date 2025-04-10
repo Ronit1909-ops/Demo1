@@ -135,7 +135,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Streamlit UI
-st.title("📊 CSV Chatbot with Gemini AI")
+st.title("📊 CSV Chatbot")
 st.markdown("### Upload your data and chat with it!")
 
 # File upload
